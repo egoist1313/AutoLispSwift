@@ -1,12 +1,9 @@
-DistandeDim.lsp=1.0
-PLSTR.lsp=1.0
-pointTin.dcl=1.0
-pointTin.lsp=1.0
-poper.dcl=1.0
-Poper_Swift.lsp=1.0
-SurveyProfile.dcl=1.0
-SurveyProfile.lsp=1.0
-Swfit.cuix=1.0
-swfit.mnr=1.0
-swfit_light.mnr=1.0
-zac.lsp=1.0
+DistandeDim.lsp=1.2=md5=05A7B78D4C3B60D500A36536C274229C
+load_all.lsp=2.0=md5=340983B67F2425D0FC387E6C5FD11A53
+PLSTR.lsp=3.1=md5=0705A4CA794044666D847FF09446EE7E
+pointTin.lsp=1.5=md5=A28321AD24D5AE18A86E2273916B2382
+Poper_Swift.lsp=4.3=md5=D9C4666F76013F7F0FCC142BFACB83DF
+SurveyProfile.lsp=2.8=md5=92AFAE236E74E533F1BA0E6817172B06
+Swfit.cuix=1.0=md5=0DA27B39C23CE672280764A296FEB080
+zac.lsp=1.1=md5=0F0FD8289CEAD8E4DA24F96D9EDF6916
+Сумма длин полилиний и отрезков.lsp=1.4=md5=BE2D2F231DDEAC652C6466DFAA9BFB99
